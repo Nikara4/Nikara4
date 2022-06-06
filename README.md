@@ -1,10 +1,17 @@
-- 👋 Hi, my name is Aleksandra. I have finished my React course and am now expanding my knowledge with Node.js and MERN applications. I aim at becoming a Front-End or Full-Stack Developer (with React and Node.js mostly).
+- 👋 Hi, my name is Aleksandra. My base coding language is JavaScript, but I have also finished a React course. I am now expanding my knowledge with Node.js and MERN applications. My dream is to become a Front-End or Full-Stack Developer (with React and Node.js mostly), but I am also open to new challenges and skills. I am thinking of learning Angular, Python or something else in the future.
 
-- You will find here my first projects done in HTML5 and CSS3 (eg. My Resume page), JavaScript (eg. my WebDev Portfolio), miscellaneous excercises from courses (repository 'misc-code-excercises) and my newest projects done in React and MERN. Main field of previous working experience: Administration, Client Service, Research, Background Screening.
+- Here you will find my first projects done in HTML5, CSS3 and JavaScript (eg. My Resume page or WebDev Portfolio), miscellaneous excercises from courses (repository 'misc-code-excercises or repositories starting with 'SW_') and my newest projects done in React and MERN (IT Memes World). My main field of previous working experience: Administration, Client Service, Research, Background Screening.
 
-- 👀 I’m interested in many things, actually. I am always trying to find THE THING, but there are so many fascinating smaller things. So I love watching TV shows; mostly sci-fi, some romance, fasntasy, a little drama. I love Marvel, Star Wars, Disney and Harry Potter stuff. I'd love to learn how to dance lindy hop and travel a lot. I'm also into healthy lifestyle, you know: diet, excercise and well-weing.
+- 👀 I’m interested in many things, actually. I am always trying to find THE THING, but there are so many fascinating smaller things. So I love watching TV shows; mostly sci-fi, some romance, fasntasy, a little drama (mostly Korean or Chinese). I love Marvel, Star Wars, Disney and Harry Potter stuff. You can basically say that I am a true nerd. Apart from that, I'd love to learn how to dance lindy hop or classics, and travel a lot. I'm also into healthy lifestyle, you know: diet, excercise and well-weing. 
+
+Checkout my Portfolio page, my newest and biggest to date project and other programs!
+
+MERN project: [IT Memes World](https://itmemesworld.netlify.app/)
+
+Portfolio: [My Developer Portfolio](https://aszczur-dev.netlify.app/)
 
 <!---
 Nikara4/Nikara4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
