@@ -10,6 +10,8 @@ MERN project: [IT Memes World](https://itmemesworld.netlify.app/)
 
 Portfolio: [My Developer Portfolio](https://aszczur-dev.netlify.app/)
 
+If you are new to coding and would like to start your journey with front-end or full-stack in JavaScript, you can check out my Learning Guide: [Frontend_beginners_guide](https://github.com/Nikara4/Frontend_beginners_guide)
+
 <!---
 Nikara4/Nikara4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
