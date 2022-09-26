@@ -6,7 +6,7 @@ Portfolio: [My Developer Portfolio](https://aszczur-dev.netlify.app/)
 
 If you are new to coding and would like to start your journey with front-end or full-stack in JavaScript, you can check out my Learning Guide: [Frontend_beginners_guide](https://github.com/Nikara4/Frontend_beginners_guide)
 
-- 👋 Hi, my name is Aleksandra. My base coding language is JavaScript, but I have also finished a React course. I am now expanding my knowledge with Node.js and MERN applications. My dream is to become a Front-End or Full-Stack Developer (with React and Node.js mostly), but I am also open to new challenges and skills. I am thinking of learning Angular, Python or something else in the future.
+- 👋 Hi, my name is Aleksandra. My base coding language is JavaScript, but I have also finished a React course. My knowledge has expanded with Node.js and MERN applications. My dream is to become a Front-End or Full-Stack Developer (with React and Node.js mostly), but I am also open to new challenges and skills. I am thinking of learning Angular, Python or something else in the future.
 
 - Here you will find my first projects done in HTML5, CSS3 and JavaScript (eg. My Resume page or WebDev Portfolio), miscellaneous excercises from courses (repository 'misc-code-excercises or repositories starting with 'SW_') and my newest projects done in React and MERN (IT Memes World). My main field of previous working experience: Administration, Client Service, Research, Background Screening.
 
